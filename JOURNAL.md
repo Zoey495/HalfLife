@@ -24,7 +24,7 @@
 
 Today I worked on the schematic and footprint of the PCB of the star boy.
 
-Luckily I remembered using KiCad before and recalled how some of the things worked. Something I found difficult was how the guide mentioned certain things or showed certain things without going in much detail about them, like how certain parts were rotated but it wasn't shown how to, but I suppose doing a quick search did answer my questions. I learned about net Labels, they seem very useful, especially in future complex  plans.
+Luckily I remembered using KiCad before and recalled how some of the things worked. Something I found difficult was how the guide mentioned certain things or showed certain things without going in much detail about them, like how certain parts were rotated but it wasn't shown how to, but doing a quick search did answer my questions. I learned about Net Labels, they seem very useful, especially in future complex  plans.
 
 Here is an image of my schematic diagram-->
 
@@ -32,7 +32,7 @@ Here is an image of my schematic diagram-->
 
 However, I ran into a few issues with the footprint library as it didn't show as I expected, but I think I fixed it.
 
-Somehow my "imported from" is  HalfLifePCB, hopefully that doesn't come to bite me in the future.
+Somehow my "imported from" is shown as  "HalfLifePCB", this might be because I named the footprint library that.
 
 My footprint assignment-->
 
