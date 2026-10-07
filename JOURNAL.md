@@ -87,6 +87,6 @@ After fixing all of those errors, I was finally able to complete wiring and crea
 
 I feel so happy that I was able to solve all those issues.
 
-Unfortunately, typing/thinking this jinxed me, as running the DRC showed a lot of errors that I needed to fix. I'll have to do those another day.
+Unfortunately, typing/thinking this jinxed me, as running the DRC showed a lot of errors that I needed to fix. I'll have to do those another day. However, after checking the guide, they had warnings unchecked, so I only have 1 error that I actually need to fix.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/xLV9v2yZsf8cQU2Q5GZ9YV3OSKXKe8Gz/757108a8b8373f44fe5832e4c0c8a8ebf49c2d55a70d763baaf44ef7c4c81f5d.png)
